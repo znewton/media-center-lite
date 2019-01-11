@@ -1,0 +1,20 @@
+{
+  "name": "media-center-lite",
+  "version": "0.0.1",
+  "description": "Super basic media center for my parents to chromecast with",
+  "main": "index.js",
+  "scripts": {
+    "serve": "./scripts/hot-serve",
+    "test": "echo -e \"\\nNo Test Suite\\n\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/znewton/media-center-lite.git"
+  },
+  "author": "znewton <znewton13@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/znewton/media-center-lite/issues"
+  },
+  "homepage": "https://github.com/znewton/media-center-lite#readme"
+}
